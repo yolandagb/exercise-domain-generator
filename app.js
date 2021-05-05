@@ -1,8 +1,8 @@
-let pronombre =['the', 'those', 'they', 'she'];
+let pronombre =['the', 'those', 'they', 'she', 'he'];
 
-let adjetivo =['meme', 'queen', 'Armin'];
+let adjetivo =['meme', 'queen', 'Armin', 'Rick', 'Rachel'];
 
-let objeto =['fromSherk', 'OfficeShow', 'freehim'];
+let objeto =['fromSherk', 'OfficeShow', 'freehim', 'Friends','TaylorSwift'];
 function concatenar (pro, adj,obj){
 for (count1 = 0; count1< pronombre.length;count1++){
 for (count2 = 0; count2 < adjetivo.length; count2++){
